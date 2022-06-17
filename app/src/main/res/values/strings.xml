@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Todo App</string>
+    <string name="your_task">Your Task</string>
+    <string name="x">X</string>
+    <string name="your_task_will_go_here">your task will go here</string>
+    <string name="priority_high">Priority - High</string>
+</resources>
